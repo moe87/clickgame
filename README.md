@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+https://fast-harbor-78988.herokuapp.com/ | https://git.heroku.com/fast-harbor-78988.git
 
 In the project directory, you can run:
 

@@ -1,0 +1,62 @@
+[
+	{
+		"id" : 1,
+		"path": "/assets/beaver.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 2,
+		"path": "/assets/chase.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 3,
+		"path": "/assets/edith.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 4,
+		"path": "/assets/ironman.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 5,
+		"path": "/assets/jerry.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 6,
+		"path": "/assets/minion.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 7,
+		"path": "/assets/miniontrans.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 8,
+		"path": "/assets/smurf.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 9,
+		"path": "/assets/spiderman.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 10,
+		"path": "/assets/stewie.jpeg",
+		"click": 0
+	},
+	{
+		"id" : 11,
+		"path": "/assets/superman.png",
+		"click": 0
+	},
+	{
+		"id" : 12,
+		"path": "/assets/tom.jpeg",
+		"click": 0
+	}
+]
